@@ -3,6 +3,7 @@
     "description": "breadcrumbs for laravel 5.+",
     "type": "package",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Aleksandr Tarabrin",
