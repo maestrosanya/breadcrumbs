@@ -1,8 +1,7 @@
 <?php
 
-namespace Maestro\MaestroAdmin\App\Components\Breadcrumbs\Facade;
+namespace Maestro\Breadcrumbs\Facade;
 
-use Maestro\MaestroAdmin\App\Components\Breadcrumbs\BreadcrumbsManager;
 use Illuminate\Support\Facades\Facade;
 
 class Breadcrumbs extends Facade

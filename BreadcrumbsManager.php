@@ -1,9 +1,7 @@
 <?php
 
-namespace Maestro\MaestroAdmin\App\Components\Breadcrumbs;
+namespace Maestro\Breadcrumbs;
 
-
-use Illuminate\Support\Collection;
 
 class BreadcrumbsManager
 {
