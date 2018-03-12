@@ -3,6 +3,7 @@
 namespace Maestro\Breadcrumbs\Providers;
 
 
+use Illuminate\Support\Facades\App;
 use Illuminate\Support\ServiceProvider;
 use Maestro\Breadcrumbs\BreadcrumbsManager;
 
