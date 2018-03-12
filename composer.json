@@ -3,7 +3,7 @@
     "description": "breadcrumbs for laravel 5.+",
     "type": "laravel package",
     "license": "MIT",
-    "version" : "1.0.0",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Aleksandr Tarabrin",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Maestro\\Breadcrumbs\\": "/"
+            "Maestro\\Breadcrumbs\\": ""
         }
     }
 }
